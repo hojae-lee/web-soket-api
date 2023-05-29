@@ -1,0 +1,23 @@
+{
+  "name": "web-soket-api",
+  "version": "1.0.0",
+  "description": "web-socket-api-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hojae-lee/web-soket-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hojae-lee/web-soket-api/issues"
+  },
+  "homepage": "https://github.com/hojae-lee/web-soket-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
